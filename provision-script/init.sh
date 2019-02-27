@@ -2,6 +2,8 @@
 
 cd /home/vagrant/
 
+sudo apt-get update
+
 mysqlFile=/home/vagrant/pro-mysql.lock
 if [ ! -e $mysqlFile ]; then
 		sudo apt-get install -y mysql-server
