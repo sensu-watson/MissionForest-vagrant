@@ -1,4 +1,5 @@
 # MissionForest開発環境
+- この環境はおそらく古いので使用する際は注意してください．
 
 ## 使い方
 1. virtualboxとvagrantをインストールしておく．
