@@ -1,6 +1,9 @@
 # MissionForest開発環境
-- この環境はおそらく古いので使用する際は注意してください．
-
+## :warning: Note
+- 現在のMissionForestのバージョンはこの開発環境上では動作しない可能性が高いです
+- [MissionForest](https://github.com/srmtlab/MissionForest)
+  - 現在はDockerを用いた開発に移行をしています
+  
 ## 使い方
 1. virtualboxとvagrantをインストールしておく．
 2. vagrant upを実行
